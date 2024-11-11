@@ -1,0 +1,6 @@
+README.md
+torch_scatter.egg-info/PKG-INFO
+torch_scatter.egg-info/SOURCES.txt
+torch_scatter.egg-info/dependency_links.txt
+torch_scatter.egg-info/requires.txt
+torch_scatter.egg-info/top_level.txt
